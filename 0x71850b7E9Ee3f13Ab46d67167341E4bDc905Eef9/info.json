@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "14bdedd6-0e3f-40d2-9842-d91b365cced1",
+  "links": {
+    "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/xdai-tokenlist/master/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/logo.png"
+  },
+  "name": "Honey",
+  "networkCode": "xdai",
+  "spam": false,
+  "symbol": "HNY",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
