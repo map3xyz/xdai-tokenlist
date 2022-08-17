@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xDfF7fcF6a86F7Dc86E7facECA502851f82a349A6",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "We Meme Business."
+  },
+  "id": "d7b56901-c0ae-469d-bb6a-9a09c647d470",
+  "links": {
+    "explorer": "https://blockscout.com/xdai/mainnet/tokens/0xDfF7fcF6a86F7Dc86E7facECA502851f82a349A6",
+    "website": "https://hogefinance.com",
+    "reddit": "https://reddit.com/r/hoge",
+    "discord": "https://discord.com/invite/hoge",
+    "twitter": "https://twitter.com/hogefinance",
+    "telegram": "https://t.me/hogefinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/hoge-finance",
+    "coingecko": "https://coingecko.com/en/coins/hoge-finance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/xdai-tokenlist/master/0xDfF7fcF6a86F7Dc86E7facECA502851f82a349A6/logo.png"
+  },
+  "name": "Hoge Finance",
+  "networkCode": "xdai",
+  "spam": false,
+  "symbol": "HOGE",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
