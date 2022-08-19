@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "address": "0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A",
+  "color": null,
+  "decimals": 18,
+  "description": null,
+  "id": "72f913f7-ad1f-4f64-831c-ee08cf4ad306",
+  "links": {
+    "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/assets/master/networks/xdai/assets/xdai-tokenlist/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png"
+  },
+  "name": "Moons",
+  "networkCode": "xdai",
+  "spam": false,
+  "symbol": "XMOON",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
