@@ -5,6 +5,9 @@
   "decimals": 18,
   "description": null,
   "id": "c747ddd0-2866-4d0b-885b-d543fbbf679f",
+  "identifiers": {
+    "coinmarketcap": 7972
+  },
   "links": {
     "explorer": "https://blockscout.com/xdai/mainnet/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9"
   },
